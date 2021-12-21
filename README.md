@@ -1,7 +1,10 @@
-### Hello there, this is Azka Ali 👋 
-I’m a Junior at FAST NUCES, Islamabad, currently pursuing my Bachelors in Computer Science.
+# Hello there, this is Azka Ali 👋 
+### I’m a Junior at FAST NUCES, Islamabad, currently pursuing my Bachelors in Computer Science.
 
-🌱 I’m currently learning Kotlin.
+## 🌱 I’m currently learning Kotlin.
+## 📫 Reach out to me on: [LinkedIn](https://www.linkedin.com/in/azkaali/)
+
+
 
 
 
@@ -14,5 +17,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript, Kotlin and Flutter ...
 - 👯 I’m looking to collaborate on projects centered around Java, C/C++, HTML, CSS ...
 - 📫 How to reach me: ...
+[https://www.linkedin.com/in/azkaali/]
 - ⚡ Fun fact: ...
 -->
