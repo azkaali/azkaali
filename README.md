@@ -1,4 +1,4 @@
-# Hello there, this is Azka Ali 👋 
+## Hello there, this is Azka Ali 👋 
 ### I’m a Junior at FAST NUCES, Islamabad, currently pursuing my Bachelors in Computer Science.
 
 ## 🌱 I’m currently learning Kotlin.
