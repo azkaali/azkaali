@@ -3,6 +3,7 @@
 
 ## 🌱 I’m currently learning JavaScript and Flutter.
 ## 📫 Reach out to me on: [LinkedIn](https://www.linkedin.com/in/azkaali/)
+## I occasionally write blogs on [Medium](https://medium.com/@azkaali)
 
 
 
