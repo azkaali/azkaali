@@ -1,5 +1,5 @@
 ## Hello there, this is Azka Ali 👋 
-### I’m a Senior at FAST NUCES, Islamabad, currently pursuing Bachelors in Computer Science.
+### I have studied Bachelors in Computer Science at FAST NUCES, Islamabad.
 
 ## 🌱 I’m currently learning JavaScript and Flutter.
 ## 📫 Reach out to me on: [LinkedIn](https://www.linkedin.com/in/azkaali/)
