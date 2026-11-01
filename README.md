@@ -1,9 +1,11 @@
-## Hello there, this is Azka Ali 👋 
-### I have studied Bachelors in Computer Science at FAST NUCES, Islamabad.
+# Hi, I'm Azka Ali
 
-## 🌱 I’m currently learning JavaScript and Flutter.
-## 📫 Reach out to me on: [LinkedIn](https://www.linkedin.com/in/azkaali/)
-## I occasionally write blogs on [Medium](https://medium.com/@azkaali)
+Software Engineer at Zones IT Solutions, Islamabad.
+BS Computer Science, FAST-NUCES Islamabad.
+
+I work with TypeScript, Node.js, Python, Spark and Azure DevOps, and I use LLMs to automate workflows.
+
+[LinkedIn](https://www.linkedin.com/in/azkaali/) · [Medium](https://medium.com/@azkaali)
 
 
 
